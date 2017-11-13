@@ -1,0 +1,10 @@
+Package: spaov
+Type: Package
+Title: Split Plot ANOVA Design with Diagnostic Plots
+Version: 1.1
+Date: 2017-11-10
+Author: McKay Davis
+Maintainer: McKay Davis <mckaymdavis1@gmail.com>
+Description: The purpose of this package is to create a sleek and simplistic way to create an ANOVA table for a split plot design. Basic requirement diagnostic plots (residuals vs fitted and QQ of residuals) are also created.
+License: GPL-2 | GPL-3
+Depends: graphics, grDevices, stats, utils
